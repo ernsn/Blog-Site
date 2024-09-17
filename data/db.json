@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1b42",
+      "firstname": "Eren",
+      "lastname": "Sen",
+      "username": "admin",
+      "email": "eren@gmail.com",
+      "password": "YWRtaW4="
+    }
+  ],
+  "posts": [
+    {
+      "title": "Try1",
+      "content": "Lorem ipsum.",
+      "id": "c105"
+    },
+    {
+      "id": "13da",
+      "title": "Try2",
+      "content": "Lorem ipsum.",
+      "image": "C:\\fakepath\\emulogo.png",
+      "userId": "1b42"
+    }
+  ]
+}
